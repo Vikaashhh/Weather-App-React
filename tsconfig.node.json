@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "lib": ["ES2023"],
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "skipLibCheck": true,
+    
+        /* Output */
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+    
+        /* Linting */
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+    
+        /* Additional Options */
+        "forceConsistentCasingInFileNames": true
+      },
+      "include": ["src/**/*"],
+      "exclude": ["node_modules", "**/*.spec.ts"]
+}
