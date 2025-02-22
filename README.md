@@ -61,11 +61,7 @@ Ensure you have Node.js and npm installed.
 
 ## Contributing
 
-Contributions are welcome! Open issues or submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License 
+Contributions are welcome! Open issues or submit pull requests for improvements. 
 
 ---
 
